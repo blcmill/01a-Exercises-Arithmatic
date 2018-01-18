@@ -1,5 +1,12 @@
 # 01a-Exercises-Arithmatic
 
+This program, by Blake Miller, fulfills the requirements of Exercise 1 in ILS-Z399 at Indiana University.
+This program was created in 2018 under the GNU GPL.
+My edits to the program are entirely in the comments, answering the questions posed by the exercise.
+What follows is the assignment description, fully intact.
+
+---
+
 Let's start writing some Python code! This is the first set of exercises for ILS-Z399. To complete these exercises:
 
 Open the IDLE program that came with your Python installation. Use IDLE to interpret the Python code and answer the questions in the file.
